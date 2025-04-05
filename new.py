@@ -10,7 +10,7 @@ import uuid
 
 
 # Configure Google Gemini API Key
-API_KEY = "AIzaSyDWDIfm-ayPH5KqWB23kvMRoO3-I9Kkxa4"
+API_KEY = "***********************************"
 genai.configure(api_key=API_KEY)
 
 
